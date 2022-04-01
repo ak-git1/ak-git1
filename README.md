@@ -5,4 +5,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak-git1&html&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=#FFFFFF" />
 </>
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ak-git1.visitor-badge.issue.1)![image](https://user-images.githubusercontent.com/13476395/161269661-514e7001-bfb8-493f-8db2-a19c41cc6e9b.png)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ak-git1.visitor-badge.issue.1)
